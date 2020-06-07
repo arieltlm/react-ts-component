@@ -1,0 +1,9 @@
+# .npmignore
+
+coverage
+example
+src
+.gitignore
+babel.config.js
+webpack.config.js
+/**
